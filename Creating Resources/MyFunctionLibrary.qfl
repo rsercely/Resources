@@ -1,0 +1,4 @@
+﻿Function MyReusableFunction (msg)
+	msgbox "in my function"
+	msgbox msg
+End Function
